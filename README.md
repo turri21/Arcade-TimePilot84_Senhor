@@ -1,3 +1,9 @@
+-=(TimePilot84_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Dev notes: Barely seen pixel artifacts on title screen. Gameplay is not affected
+___
 # Time Pilot '84 for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 An FPGA implementation of Time Pilot '84 by Ace, ElectronAsh, Enforcer, loloC2C and Kitrinx
 
